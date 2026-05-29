@@ -31,9 +31,9 @@
 
 | Candidate | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
 |------------|-----------|------------|-----------------|---------------|---------------|-------------------|------------------|------|
-| AI Coach chuyển feedback thành action plan | 5 | 5 | 5 | 4 | 5 | 5 | 5 | 34 |
-| Tìm lại thông tin Discord/Zalo | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 35 |
-| Tổng hợp tài liệu ôn thi | 5 | 5 | 4 | 5 | 5 | 5 | 5 | 34 |
+| Cognitive Reframing khi nhận feedback tiêu cực | 5 | 5 | 4 | 5 | 5 | 5 | 5 | 34 |
+| Reframing tin nhắn mơ hồ giảm overthinking | 4 | 4 | 3 | 3 | 4 | 4 | 5 | 27 |
+| Reframing deadline panic thành action nhỏ | 4 | 5 | 4 | 4 | 5 | 4 | 4 | 30 |
 
 ## Candidate problem nhóm chốt
 
