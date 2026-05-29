@@ -112,10 +112,15 @@ Workflow
 CURRENT STATE — 15 phút
 
 [1 Mở Google Maps/Facebook: 2']
+
 → [2 Tìm quán gần trường: 3']
+
 → [3 Xem menu và giá: 4']
+
 → [4 Đọc đánh giá: 2']
+
 → [5 So sánh nhiều quán: 3'] <-- bottleneck
+
 → [6 Quyết định: 1']
 
 Tổng: khoảng 15-20 phút
@@ -125,9 +130,18 @@ Tổng: khoảng 15-20 phút
 FUTURE STATE — 2 phút
 
 [1 Nhập ngân sách: 10s]
+
 → [2 AI phân tích nhu cầu: 10s]
+
 → [3 AI gợi ý 5 quán phù hợp: 20s]
+
 → [4 Sinh viên xem kết quả: 30s] <-- human boundary
+
 → [5 Chọn quán: 50s]
 
-Fallback: Nếu không hài lòng, sinh viên tự tìm trên Google Maps.
+Fallback: Nếu không hài lòng, sinh viên tự tìm trên Google Maps.## Problem Cards #2 và #3 — tóm tắt
+
+| Card | Actor | Bottleneck | Metric | Quick gut | Vì sao chưa chọn làm #1 |
+|------|--------|------------|---------|-----------|-------------------------|
+| Tìm phòng trọ | Tân sinh viên | Phải tìm kiếm và so sánh hàng chục bài đăng khác nhau | 5 ngày → 1 ngày | Workflow | Dữ liệu phòng trọ khó cập nhật liên tục |
+| Tối ưu đường đi đến trường | Sinh viên ở xa trường | Không biết tuyến đường tốt nhất theo thời gian thực | 75 phút → 60 phút | Agent / Workflow | Phụ thuộc dữ liệu giao thông thời gian thực |
