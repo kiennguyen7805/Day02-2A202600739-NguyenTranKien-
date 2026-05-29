@@ -14,7 +14,6 @@
 |---------|---------|---------|---------|---------|
 | Scan | Gợi ý thêm candidate về Empathy AI và Mental Wellness | Giúp mở rộng góc nhìn, tìm thêm các vấn đề liên quan đến cognitive reframing | Một số ý tưởng quá rộng hoặc thiên về trị liệu tâm lý | Chỉ giữ các problem có actor, workflow và metric rõ |
 | Cluster | Hỗ trợ gom các candidate thành các nhóm vấn đề | Nhanh chóng nhận ra pattern chung giữa các candidate | Đôi khi gom các vấn đề khác bản chất vào cùng một nhóm | Nhóm tự review và điều chỉnh lại cluster |
-| Research | Tìm các tool tương tự như Woebot, Wysa, CBT Thought Record, Reflect | Tiết kiệm thời gian tìm benchmark và pattern thiết kế | Một số thông tin cần kiểm chứng lại từ nguồn chính thức | Chỉ sử dụng thông tin đã đối chiếu từ website chính thức |
 | Workflow | Nhờ AI mô tả current workflow và future workflow | Giúp hình dung flow nhanh hơn | Một số bước bị gộp hoặc bỏ qua bottleneck | Nhóm tự chỉnh lại workflow theo thực tế |
 | Rule / Workflow / Agent | Thảo luận với AI về hướng triển khai | Giúp phân biệt giữa Rule, Workflow và Agent | AI có xu hướng đề xuất Agent quá sớm | Nhóm chọn Workflow để giảm scope |
 
