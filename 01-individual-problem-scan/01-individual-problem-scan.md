@@ -139,7 +139,8 @@ FUTURE STATE — 2 phút
 
 → [5 Chọn quán: 50s]
 
-Fallback: Nếu không hài lòng, sinh viên tự tìm trên Google Maps.## Problem Cards #2 và #3 — tóm tắt
+Fallback: Nếu không hài lòng, sinh viên tự tìm trên Google Maps.
+# Problem Cards #2 và #3 — tóm tắt
 
 | Card | Actor | Bottleneck | Metric | Quick gut | Vì sao chưa chọn làm #1 |
 |------|--------|------------|---------|-----------|-------------------------|
