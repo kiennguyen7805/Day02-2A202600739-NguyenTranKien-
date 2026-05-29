@@ -4,7 +4,6 @@
 | Scan cá nhân | Đề xuất 3 candidate: Tìm quán ăn phù hợp ngân sách, Tìm tuyến đường tối ưu đến trường, Tìm phòng trọ gần trường | Bổ sung cluster "Đời sống sinh viên" cho danh sách candidate |
 | Cluster | Hỗ trợ gom các candidate thành các nhóm vấn đề và xác định pattern chung | Nhóm có cái nhìn tổng quan về toàn bộ 15 candidate |
 | Scoring | Tham gia đánh giá candidate theo các tiêu chí Actor, Workflow, Impact, Domain | Hỗ trợ shortlist các đề tài tiềm năng |
-| Workflow | Góp ý cách mô tả current workflow và future workflow cho các candidate được shortlist | Nhóm thống nhất cách phân tích Problem Card |
 | Research | Tìm hiểu các giải pháp hiện có liên quan đến đời sống sinh viên và AI hỗ trợ ra quyết định | Bổ sung góc nhìn benchmark cho quá trình thảo luận |
 | Discussion | Tham gia thảo luận, phản biện và so sánh các candidate trong giai đoạn lựa chọn đề tài | Nhóm chọn được đề tài cuối cùng là Cognitive Reframing khi nhận feedback tiêu cực |
 
