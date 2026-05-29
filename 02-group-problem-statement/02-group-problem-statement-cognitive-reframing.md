@@ -19,6 +19,14 @@
 | 13 | Cognitive reframing khi nhận feedback tiêu cực |
 | 14 | Reframing tin nhắn mơ hồ để giảm overthinking |
 | 15 | Cognitive reframing cho deadline panic thành bước hành động nhỏ |
+# Cluster
+| Cluster | Candidate examples | Pattern chung |
+|----------|----------|----------|
+| Tìm kiếm / hỏi đáp tài liệu | Tổng hợp tài liệu ôn thi, Tìm lại thông tin Discord/Zalo, Theo dõi deadline môn học | Thông tin nằm rải rác ở nhiều nguồn, khó tìm lại đúng lúc |
+| Đời sống sinh viên | Tìm quán ăn phù hợp ngân sách, Tìm tuyến đường tối ưu đến trường, Tìm phòng trọ gần trường | Sinh viên mất thời gian tìm kiếm và ra quyết định |
+| Học tập & hỗ trợ | Kiến thức AI quá nhiều và tốc độ học quá nhanh, Khó cân bằng giữa đại học và AI20K, Lớp học đông trợ giảng không đủ hỗ trợ | Thiếu cá nhân hóa và thiếu hỗ trợ kịp thời |
+| Data entry / Automation | Copy-paste Excel vào CMS, Sửa định dạng/dấu cách Excel, Gắn Tags cho thanh Search | Công việc lặp lại, thủ công, dễ sai sót |
+| Mental wellness | Cognitive reframing khi nhận feedback tiêu cực, Reframing tin nhắn mơ hồ để giảm overthinking, Reframing deadline panic thành bước hành động nhỏ | Chuyển suy nghĩ tiêu cực thành hành động tích cực |
 
 ## Candidate problem nhóm chốt
 
