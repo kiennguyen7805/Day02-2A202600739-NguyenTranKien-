@@ -24,3 +24,110 @@
 | 1 | Tìm quán ăn phù hợp ngân sách | Pain thật, xảy ra hằng ngày, AI có thể gợi ý theo ngân sách, vị trí và sở thích | Cần dữ liệu giá quán ăn được cập nhật thường xuyên |
 | 2 | Tìm tuyến đường tối ưu đến trường | Nhiều sinh viên gặp phải, có thể giảm thời gian di chuyển và tránh kẹt xe | Cần dữ liệu giao thông thời gian thực |
 | 3 | Tìm phòng trọ gần trường | Pain lớn với tân sinh viên, AI có thể lọc theo giá, khoảng cách và tiện ích | Dữ liệu phòng trọ có thể không đầy đủ hoặc lỗi thời |
+# Problem Card #1 — Tìm quán ăn phù hợp ngân sách
+
+## Problem 1 câu:
+
+Sinh viên mất nhiều thời gian tìm quán ăn phù hợp với ngân sách, khoảng cách và sở thích, đặc biệt vào giờ nghỉ trưa.
+
+## Actor:
+
+Sinh viên đại học có ngân sách hạn chế và thời gian nghỉ ngắn giữa các buổi học.
+
+## Thời điểm / bối cảnh:
+
+Giờ nghỉ trưa hoặc sau giờ học.
+
+## Current workflow:
+
+1. Mở Google Maps hoặc Facebook
+2. Tìm quán ăn gần trường
+3. Xem giá và đánh giá
+4. So sánh nhiều quán
+5. Hỏi bạn bè để xin gợi ý
+6. Quyết định nơi ăn
+7. Di chuyển đến quán
+
+## Pain points:
+
+- Mất 15–20 phút để tìm quán phù hợp
+- Khó biết giá thực tế trước khi đến
+- Đánh giá trên mạng đôi khi không đáng tin
+- Nhiều quán nhưng không biết quán nào phù hợp ngân sách
+
+## Dấu hiệu định lượng:
+
+- Trung bình mất 15–20 phút/lần tìm quán
+- Chi phí ăn uống khoảng 80.000–120.000đ/ngày
+- 70% sinh viên hỏi bạn bè trước khi quyết định
+
+## Ý tưởng AI:
+
+AI gợi ý quán ăn dựa trên:
+- Ngân sách
+- Khoảng cách
+- Sở thích ăn uống
+- Thời gian hiện có
+- Đánh giá từ người dùng
+## Bottleneck
+
+Sinh viên mất khoảng 15–20 phút để tìm quán ăn phù hợp ngân sách và khoảng cách. Quá nhiều lựa chọn nhưng thiếu thông tin tập trung.
+
+## Impact
+
+- 15 phút/lần tìm quán
+- Trung bình 2 lần/ngày
+- Khoảng 30 phút/ngày cho mỗi sinh viên
+- Với 1.000 sinh viên có thể lãng phí hơn 500 giờ mỗi ngày
+
+## Success metric
+
+- Giảm thời gian tìm quán từ 15 phút xuống dưới 3 phút
+- Trên 80% đề xuất được người dùng chấp nhận
+- Tăng mức độ hài lòng của sinh viên về lựa chọn quán ăn
+
+## Non-AI alternative
+
+- Danh sách quán ăn trên Facebook
+- Google Maps
+- File tổng hợp quán ăn gần trường
+
+Các giải pháp này cung cấp thông tin nhưng chưa cá nhân hóa theo ngân sách và sở thích.
+
+## AI hypothesis
+
+AI có thể đề xuất quán ăn dựa trên:
+- Ngân sách hiện có
+- Khoảng cách
+- Sở thích ăn uống
+- Thời gian nghỉ
+
+Người dùng chỉ cần nhập nhu cầu thay vì tự tìm kiếm.
+
+## Quick gut
+
+Workflow
+## Draft current workflow
+
+CURRENT STATE — 15 phút
+
+[1 Mở Google Maps/Facebook: 2']
+→ [2 Tìm quán gần trường: 3']
+→ [3 Xem menu và giá: 4']
+→ [4 Đọc đánh giá: 2']
+→ [5 So sánh nhiều quán: 3'] <-- bottleneck
+→ [6 Quyết định: 1']
+
+Tổng: khoảng 15-20 phút
+
+## Draft future workflow
+
+FUTURE STATE — 2 phút
+
+[1 Nhập ngân sách: 10s]
+→ [2 AI phân tích nhu cầu: 10s]
+→ [3 AI gợi ý 5 quán phù hợp: 20s]
+→ [4 Sinh viên xem kết quả: 30s] <-- human boundary
+→ [5 Chọn quán: 50s]
+
+Fallback: Nếu không hài lòng, sinh viên tự tìm trên Google Maps.
