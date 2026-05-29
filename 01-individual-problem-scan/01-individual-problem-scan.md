@@ -12,11 +12,11 @@
 | 9 | Lặp lại | Hỏi nhau về tuyến xe buýt và đường đi | Sinh viên | Hàng chục câu hỏi giống nhau trong nhóm lớp mỗi tuần |
 | 10 | AI có thể tốt hơn | Không biết tuyến đường nào đến trường nhanh nhất theo thời gian thực | Sinh viên | Thời gian di chuyển chênh lệch 20–30 phút tùy ngày |
 # Vì sao phần scan này mạnh
-Có scan rộng từ học tập, đi lại, ăn uống đến nhà ở.
-Có nhiều lăng kính: lặp lại, tốn thời gian, AI có thể tốt hơn, pain từ người khác.
-Mỗi problem đều có actor rõ ràng (sinh viên, giảng viên, chủ trọ...).
-Có dấu hiệu định lượng thay vì cảm tính.
-Bắt đầu từ vấn đề thực tế trước khi nghĩ đến AI.
+- Có scan rộng từ học tập, đi lại, ăn uống đến nhà ở.
+- Có nhiều lăng kính: lặp lại, tốn thời gian, AI có thể tốt hơn, pain từ người khác.
+- Mỗi problem đều có actor rõ ràng.
+- Có dấu hiệu định lượng thay vì cảm tính.
+- Bắt đầu từ vấn đề thực tế trước khi nghĩ đến AI.
 # Top 3
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
