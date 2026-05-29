@@ -19,7 +19,7 @@
 | 13 | Cognitive reframing khi nhận feedback tiêu cực |
 | 14 | Reframing tin nhắn mơ hồ để giảm overthinking |
 | 15 | Cognitive reframing cho deadline panic thành bước hành động nhỏ |
-# Cluster
+## Cluster
 | Cluster | Candidate examples | Pattern chung |
 |----------|----------|----------|
 | Tìm kiếm / hỏi đáp tài liệu | Tổng hợp tài liệu ôn thi, Tìm lại thông tin Discord/Zalo, Theo dõi deadline môn học | Thông tin nằm rải rác ở nhiều nguồn, khó tìm lại đúng lúc |
@@ -31,7 +31,7 @@
 
 | Candidate | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
 |------------|-----------|------------|-----------------|---------------|---------------|-------------------|------------------|------|
-| Cognitive reframing khi nhận feedback tiêu cực | 5 | 3 | 5 | 2 | 5 | 4 | 5 | 29 |
+| AI Coach chuyển feedback thành action plan | 5 | 5 | 5 | 4 | 5 | 5 | 5 | 34 |
 | Tìm lại thông tin Discord/Zalo | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 35 |
 | Tổng hợp tài liệu ôn thi | 5 | 5 | 4 | 5 | 5 | 5 | 5 | 34 |
 
