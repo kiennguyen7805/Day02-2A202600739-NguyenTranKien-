@@ -27,6 +27,13 @@
 | Học tập & hỗ trợ | Kiến thức AI quá nhiều và tốc độ học quá nhanh, Khó cân bằng giữa đại học và AI20K, Lớp học đông trợ giảng không đủ hỗ trợ | Thiếu cá nhân hóa và thiếu hỗ trợ kịp thời |
 | Data entry / Automation | Copy-paste Excel vào CMS, Sửa định dạng/dấu cách Excel, Gắn Tags cho thanh Search | Công việc lặp lại, thủ công, dễ sai sót |
 | Mental wellness | Cognitive reframing khi nhận feedback tiêu cực, Reframing tin nhắn mơ hồ để giảm overthinking, Reframing deadline panic thành bước hành động nhỏ | Chuyển suy nghĩ tiêu cực thành hành động tích cực |
+## Shortlist và Score
+
+| Candidate | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
+|------------|-----------|------------|-----------------|---------------|---------------|-------------------|------------------|------|
+| Cognitive reframing khi nhận feedback tiêu cực | 5 | 3 | 5 | 2 | 5 | 4 | 5 | 29 |
+| Tìm lại thông tin Discord/Zalo | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 35 |
+| Tổng hợp tài liệu ôn thi | 5 | 5 | 4 | 5 | 5 | 5 | 5 | 34 |
 
 ## Candidate problem nhóm chốt
 
