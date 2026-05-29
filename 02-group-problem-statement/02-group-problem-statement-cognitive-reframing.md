@@ -35,6 +35,51 @@
 | Reframing tin nhắn mơ hồ giảm overthinking | 4 | 4 | 3 | 3 | 4 | 4 | 5 | 27 |
 | Reframing deadline panic thành action nhỏ | 4 | 5 | 4 | 4 | 5 | 4 | 4 | 30 |
 
+### Nhóm chọn: Cognitive Reframing khi nhận feedback tiêu cực
+
+### Vì sao chọn
+
+- Có actor rất rõ: sinh viên nhận feedback từ giảng viên, TA hoặc peer review.
+- Workflow hiện tại và workflow tương lai đều xác định được từng bước cụ thể.
+- Pain xuất hiện khá phổ biến trong môi trường học tập.
+- Có thể đo lường được bằng các metric rõ ràng:
+  - Thời gian từ lúc nhận feedback đến khi bắt đầu sửa bài.
+  - Số action items tạo được từ feedback.
+  - Mức độ khó chịu (self-rated distress) trước và sau khi reframe.
+- AI tạo giá trị ở đúng bottleneck: chuyển từ suy nghĩ tiêu cực sang hành động cụ thể.
+- Dễ xây dựng và demo trong phạm vi Day 02 Lab.
+- Dễ so sánh giữa No AI, Rule, Workflow và Agent.
+- Có boundary rõ ràng, không đi sang therapy hoặc mental health.
+
+### Vì sao không chọn các bài khác
+
+#### Reframing tin nhắn mơ hồ giảm overthinking
+
+- Impact khó đo chính xác.
+- Dễ xảy ra hallucination khi AI suy đoán ý định người khác.
+- Boundary khó kiểm soát hơn.
+- Cần nhiều giả định về cảm xúc và ý định của người gửi.
+
+#### Reframing deadline panic thành action nhỏ
+
+- Workflow rõ và có thể đo được.
+- Tuy nhiên dễ biến thành bài toán productivity/task management.
+- Nhiều giải pháp Rule hoặc Checklist đã giải quyết được phần lớn vấn đề.
+- Giá trị riêng của Cognitive Reframing chưa nổi bật bằng bài feedback.
+
+### Decision
+
+| Tiêu chí | Kết quả |
+|-----------|----------|
+| Actor rõ | ✅ |
+| Workflow rõ | ✅ |
+| Có bottleneck cụ thể | ✅ |
+| Impact đo được | ✅ |
+| Có thể validate nhanh | ✅ |
+| AI tạo thêm giá trị | ✅ |
+| Có boundary an toàn | ✅ |
+| Quyết định cuối | **GO** |
+
 ## Candidate problem nhóm chốt
 
 ```text
