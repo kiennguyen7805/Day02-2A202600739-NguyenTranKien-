@@ -208,14 +208,78 @@ Phần này nhóm cần bổ sung link nguồn sau khi research. Trước mắt 
 | AI journaling / self-reflection tools | Cách AI hỏi câu gợi mở và phản hồi theo ngữ cảnh | AI có thể hữu ích ở bước ngôn ngữ và empathy |
 | Learning feedback / formative assessment tools | Cách feedback được chuyển thành next steps | Action items phải gắn với feedback thật, không chỉ an ủi |
 
-Research notes:
+# Research giải pháp
+## 
 
-| Nguồn / tool / case | Link | Họ giải quyết phần nào? | Khoảng trống / rủi ro | Bài học cho nhóm |
-|---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Nguồn / Tool / Case | Link | Họ giải quyết phần nào? | Điểm mạnh | Khoảng trống / Rủi ro | Bài học cho nhóm |
+|---------------------|------|-------------------------|-----------|----------------------|------------------|
+| Woebot | https://woebothealth.com | Hỗ trợ người dùng nhận diện suy nghĩ tiêu cực và thực hiện cognitive reframing qua hội thoại | Đặt câu hỏi dẫn dắt thay vì đưa đáp án trực tiếp | Chưa tập trung vào bối cảnh học tập và feedback từ giảng viên | AI nên đóng vai trò coach, không thay người dùng suy nghĩ |
+| Wysa | https://www.wysa.com | Hỗ trợ self-reflection và quản lý cảm xúc | Workflow rõ ràng, từng bước nhỏ dễ làm theo | Nhiều phản hồi mang tính template | Reframing cần có cấu trúc và quy trình nhất quán |
+| CBT Thought Record | https://www.psychologytools.com/resource/thought-record | Chuyển suy nghĩ tiêu cực thành góc nhìn cân bằng hơn bằng framework CBT | Có cấu trúc Situation → Thought → Evidence → Alternative Thought | Người dùng phải tự điền thủ công, dễ bỏ cuộc | AI có thể hướng dẫn từng bước và giảm ma sát |
+| Reflect | https://reflect.app | Hỗ trợ journaling và tự phản ánh | Khuyến khích suy nghĩ có hệ thống | Không tập trung vào feedback học tập | Reflection là bước quan trọng trước khi tạo action plan |
+| Notion AI | https://www.notion.so/product/ai | Chuyển nội dung dài thành tóm tắt và action items | Biến thông tin thành các bước hành động cụ thể | Không hỗ trợ reframing cảm xúc hoặc suy nghĩ | Pattern tốt: AI draft → người dùng review |
+| Google Gemini | https://gemini.google.com | Tóm tắt, diễn giải và hỗ trợ brainstorming | Có thể chuyển feedback dài thành checklist dễ hiểu | Dễ đưa ra lời khuyên chung chung hoặc thiếu ngữ cảnh | Cần giới hạn vai trò AI và giữ human review |
+## Research Takeaway
 
+* Không nên xây dựng AI therapist hoặc hệ thống tư vấn tâm lý.
+* Hướng phù hợp hơn là Workflow hỗ trợ Cognitive Reframing trong bối cảnh học tập.
+* AI nên hỗ trợ:
+
+  * Hỏi câu gợi mở.
+  * Tách Fact / Feeling / Interpretation.
+  * Gợi ý 2–3 cách diễn giải cân bằng hơn.
+  * Chuyển feedback thành action items cụ thể.
+* Người dùng vẫn:
+
+  * Quyết định câu reframe nào phù hợp.
+  * Kiểm tra lại action items.
+  * Chịu trách nhiệm sửa bài và cải thiện kết quả.
+
+## Pattern chung từ các sản phẩm đã nghiên cứu
+
+```text
+User nhập feedback hoặc tình huống
+
+        ↓
+
+AI hỏi câu gợi mở
+
+        ↓
+
+AI hỗ trợ reflection
+
+        ↓
+
+AI tách Fact / Feeling / Interpretation
+
+        ↓
+
+AI gợi ý Cognitive Reframing
+
+        ↓
+
+AI tạo Action Items
+
+        ↓
+
+Người dùng review và quyết định
+```
+
+## Kết luận
+
+Nhóm chọn **Workflow** thay vì **Agent** vì:
+
+* Có workflow rõ ràng và dễ kiểm soát.
+* AI chỉ can thiệp ở một số bước cụ thể.
+* Giảm rủi ro AI đưa lời khuyên tâm lý không phù hợp.
+* Phù hợp với phạm vi Day 02 Lab.
+* Phù hợp với pattern thực tế của Woebot, Wysa và CBT Thought Record.
+
+### Decision
+
+**Go with Workflow.**
+
+AI hỗ trợ cognitive reframing cho một feedback cụ thể, giúp người dùng chuyển từ suy nghĩ tiêu cực sang hành động cải thiện. AI không đóng vai trò therapist, không chẩn đoán tâm lý và không thay người dùng đưa ra quyết định cuối cùng.
 ---
 
 ## 4. Current workflow
