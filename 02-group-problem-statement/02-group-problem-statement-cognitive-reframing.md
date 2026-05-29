@@ -278,8 +278,6 @@ Nhóm chọn **Workflow** thay vì **Agent** vì:
 ### Decision
 
 **Go with Workflow.**
-
-AI hỗ trợ cognitive reframing cho một feedback cụ thể, giúp người dùng chuyển từ suy nghĩ tiêu cực sang hành động cải thiện. AI không đóng vai trò therapist, không chẩn đoán tâm lý và không thay người dùng đưa ra quyết định cuối cùng.
 ---
 
 ## 4. Current workflow
